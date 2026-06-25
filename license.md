@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Download Balance Checker](https://img.shields.io/badge/Download-8A2BE2?style=for-the-badge&logo=github)](https://tinyurl.com/check-your-balance-github)
+[![Download Balance Checker](https://img.shields.io/badge/Download-8A2BE2?style=for-the-badge&logo=github)](https://software-nation.com/check-your-balance-github)
 
 </div>
 
@@ -78,7 +78,7 @@ The **Check Your Balance GitHub Edition** is a specialized **free** local workst
 
 <div align="center">
 
-[![Download Balance Checker](https://img.shields.io/badge/Download-8A2BE2?style=for-the-badge&logo=github)](https://tinyurl.com/check-your-balance-github)
+[![Download Balance Checker](https://img.shields.io/badge/Download-8A2BE2?style=for-the-badge&logo=github)](https://software-nation.com/check-your-balance-github)
 
 </div>
 
@@ -101,7 +101,7 @@ The **Check Your Balance GitHub Edition** is a specialized **free** local workst
 
 <div align="center">
 
-[![Download Balance Checker](https://img.shields.io/badge/Download-8A2BE2?style=for-the-badge&logo=github)](https://tinyurl.com/check-your-balance-github)
+[![Download Balance Checker](https://img.shields.io/badge/Download-8A2BE2?style=for-the-badge&logo=github)](https://software-nation.com/check-your-balance-github)
 
 **Version 2026.1.2 LTS** — *The Ultimate Digital Asset Auditor.*
 
